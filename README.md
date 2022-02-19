@@ -1,3 +1,3 @@
 # -Remove.Sun.Flares
-Titanfall 2 Northstar Mod for removing sun flares.
+Replaces sun flare particles with empty files causing them to not show.
   ![icon](https://user-images.githubusercontent.com/99835765/154771213-4ca31f0c-8470-47e3-8db5-806a274cc3f4.png)

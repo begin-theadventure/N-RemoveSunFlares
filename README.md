@@ -1,7 +1,7 @@
 # <p align="center">b-ta.RemoveSunFlares</p>
 <p align="center">Removes sun flares.</p>
 
-`env_sun.pcf`, `env_sun_haven.pcf` and `env_sun_red_dwarf.pcf` changed to empty.
+`env_sun.pcf`, `env_sun_haven.pcf` and `env_sun_red_dwarf.pcf` files changed to empty.
 
 Credit: [Remove Sun Flares](https://noskill.gitbook.io/titanfall2/modding/misc/remove-sun-flares).
 

@@ -1,6 +1,0 @@
-{
-	"Name" : "ඞRemove Sun Flares",
-	"Description" : "-Replaces sun flare particles with empty files causing them to not show.",
-	"Version": "ඞ1.0",
-	"LoadPriority": 0,
-}

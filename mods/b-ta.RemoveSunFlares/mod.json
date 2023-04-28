@@ -1,0 +1,6 @@
+{
+	"Name" : "ඞb-ta.RemoveSunFlares",
+	"Description" : "-Removes sun flares.\nenv_sun.pcf, env_sun_haven.pcf and env_sun_red_dwarf.pcf changed to empty.\nCredit: noskill.gitbook.io.\nbegin-theadventure 2023",
+	"Version": "ඞ1.0.3",
+	"LoadPriority": 1
+}
